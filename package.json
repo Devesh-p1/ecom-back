@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Devesh-p1/ecom-back/issues"
   },
-  "homepage": "https://github.com/Devesh-p1/ecom-back#readme"
+  "homepage": "https://github.com/Devesh-p1/ecom-back#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.5"
+  }
 }
